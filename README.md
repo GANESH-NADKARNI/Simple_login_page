@@ -32,7 +32,7 @@ login-page/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/login-page.git
+git clone https://github.com/your-username/login-page.git](https://github.com/GANESH-NADKARNI/Simple_login_page.git)
 ```
 
 2. Navigate to the project directory:
